@@ -1,4 +1,0 @@
-google-generativeai
-streamlit
--reportlab.platypus
-+reportlab==3.6.12
